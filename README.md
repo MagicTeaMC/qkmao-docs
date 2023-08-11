@@ -33,7 +33,7 @@ POST https://qkmao.cc/api/v2?random
 ```haskell
 GET https://qkmao.cc/api/v2/get?slug=good+stuff+not+drugs
 ```
-then when i use `GET` for `/api/v2/get`, i get the result of:
+獲取 `good-stuff-not-drugs` 的原網址
 ### 回覆內容
 ```json
 (200)
