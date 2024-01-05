@@ -1,5 +1,4 @@
 # qkmao-docs
-v1 使用方法可以在 <https://qkmao.cc/dev> 查看  
 ## 一般使用方法
 ```haskell
 POST https://qkmao.cc/api/v2
