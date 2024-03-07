@@ -24,7 +24,6 @@ POST https://qkmao.cc/api/v2?random
 ```
 ```json
 {
-  "message": "successful",
   "link": "https://long-link.here"
   // no need to use slug because ?random
 }
